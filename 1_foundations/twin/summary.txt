@@ -1,2 +1,12 @@
-My name is Terry. I'm a software engineer with around 9 years of experience in various frontend (React, Angular) and backend (Dotnet, Laravel) technologies. I've lived in California for over 10 years now after graduating from a masters program here. 
+My name is Terry. I'm a full-stack software engineer with 9 years of experience shipping production web applications, mostly frontend (React, Angular, TypeScript) with backend work in Laravel, .NET and Python, and I'm now building applied AI products end to end. I've lived in California for over 10 years now after graduating from a masters program here. 
 I love coffee, hiking, playing the guitar. Not particularly a foodie, but I like all kinds of beef and hate all cheeses.
+
+## Roles I'm looking for
+- Frontend: Senior Frontend Engineer, Senior Frontend Software Engineer, Senior Frontend Developer.
+- AI: AI Engineer, Applied AI Engineer, AI Software Engineer, Full-Stack AI Engineer, AI Product Engineer. These are roles building products and features on top of existing AI models (LLM apps, agents, chat interfaces), not training models or ML research.
+
+## Recruiter screening answers
+- Work authorization: I'm a US citizen, authorized to work in the US for any employer.
+- Sponsorship: I do not require visa sponsorship, now or in the future.
+- Location: I'm based in California. I'm open to fully remote roles, hybrid roles in California, and relocating for the right role.
+- Compensation: I don't have one fixed number, because it depends on the role's level, scope and total compensation (base, bonus, equity, benefits). I'm happy to discuss once I know the role's budgeted range.

@@ -1,7 +1,7 @@
 from openai import OpenAI
 from context import TWIN_SYSTEM_PROMPT
 from tools import tools, handle_tool_calls
-from styles import CSS, JS, EXAMPLES
+from styles import CSS, JS, EXAMPLES, GREETING, THEME
 from dotenv import load_dotenv
 import gradio as gr
 
@@ -31,7 +31,7 @@ if __name__ == "__main__":
     gr.ChatInterface(
         chat,
         examples=EXAMPLES,
-        title="Digital Twin",
-        description="Talk to my AI twin about my career",
-        chatbot=gr.Chatbot(show_label=False),
-    ).launch(css=CSS, js=JS, theme=gr.themes.Base())
+        title="Terry Lin",
+        chatbot=gr.Chatbot(show_label=False, placeholder=GREETING),
+        textbox=gr.Textbox(placeholder="Ask about my experience…", show_label=False, submit_btn=True),
+    ).launch(css=CSS, js=JS, theme=THEME)
