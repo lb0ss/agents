@@ -3,3 +3,4 @@ gradio==6.14.0
 pypdf
 openai
 python-dotenv
+anthropic==2.3.0

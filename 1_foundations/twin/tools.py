@@ -52,7 +52,7 @@ record_user_details_json = {
 
 record_unknown_question_json = {
     "name": "record_unknown_question",
-    "description": "Always use this tool to record any question that couldn't be answered as you didn't know the answer",
+    "description": "Record a question you couldn't answer because the answer is not in the summary or resume. Do not use it for questions you can answer from them, including the hobbies and food preferences in the summary.",
     "parameters": {
         "type": "object",
         "properties": {
